@@ -1,4 +1,4 @@
-# Offline mode is going places
+#Avacados Are The Liars
 
 Even though offline mode hasn't yet been taken down by Mojang, it's still technically piracy when you're using it, as you're getting the game for free (unless you bought it). Since GitHub and Mojang are owned by the same company, it's time we announce that we're putting our foot down.
 
@@ -12,3 +12,5 @@ We're making this change to prevent any legal issues that could end PojavLaunche
 We will not provide support for finding workarounds or acquiring Minecraft through other means if you do not own the game.
 
 A couple months after we make this change and add demo mode to the launcher, we plan on removing local mode altogether.
+
+Also Poop IS Good Don't Trust the avacados
